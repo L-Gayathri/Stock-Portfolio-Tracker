@@ -1,6 +1,6 @@
 import yfinance as yf
 from prettytable import PrettyTable
-<link rel=
+<link rel
 class StockPortfolio:
     def __init__(self):
         self.portfolio = {}
@@ -80,5 +80,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
